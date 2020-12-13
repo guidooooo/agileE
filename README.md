@@ -3,3 +3,6 @@ magine that you are involved in the development of a large file storage system. 
 
 ## package to install
 pip install --upgrade requests-cache
+
+## CONFIG.py
+Reemplazar la API_KEY fake por la correcta
